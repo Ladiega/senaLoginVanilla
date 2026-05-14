@@ -48,3 +48,7 @@ button {
 button:hover {
   background: #4cae4c;
 }
+#counterContainer {
+  text-align: center;
+  margin-top: 20px;
+}
